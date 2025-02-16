@@ -4,6 +4,8 @@
 
 This PHP-based web application serves as the admin panel for the Shuttle Tracking System. It allows university administrators to track shuttle buses in real-time and manage driver accounts. The system enables bus drivers to sign up with special credentials and provides details such as driver and owner names, images, bus photos, and the number of passengers currently using the app.
 
+<img src="screenshot/s1.png" alt="Student UI" width="800">
+
 ## Features
 
 - **Driver Authentication**: Allows bus drivers to sign up and receive special passwords.
